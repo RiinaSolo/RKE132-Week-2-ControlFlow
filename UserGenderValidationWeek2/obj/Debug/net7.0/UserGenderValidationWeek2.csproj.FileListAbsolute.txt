@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/bin/Debug/net7.0/UserGenderValidationWeek2
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/bin/Debug/net7.0/UserGenderValidationWeek2.deps.json
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/bin/Debug/net7.0/UserGenderValidationWeek2.runtimeconfig.json
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/bin/Debug/net7.0/UserGenderValidationWeek2.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/bin/Debug/net7.0/UserGenderValidationWeek2.pdb
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/refint/UserGenderValidationWeek2.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.pdb
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/UserGenderValidationWeek2.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserGenderValidationWeek2/obj/Debug/net7.0/ref/UserGenderValidationWeek2.dll

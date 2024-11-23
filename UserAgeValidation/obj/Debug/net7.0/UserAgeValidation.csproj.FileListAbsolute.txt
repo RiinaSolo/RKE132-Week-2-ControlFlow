@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.deps.json
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.runtimeconfig.json
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/bin/Debug/net7.0/UserAgeValidation.pdb
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/refint/UserAgeValidation.dll
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.pdb
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/UserAgeValidation.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/UserGenderValidationWeek2/UserAgeValidation/obj/Debug/net7.0/ref/UserAgeValidation.dll
